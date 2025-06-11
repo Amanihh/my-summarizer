@@ -11,9 +11,6 @@
 - Users can easily input their desired text, and the application utilizes advanced algorithms to generate coherent and condensed summaries. 
 - The project combines the power of ReactJS, Redux Toolkit, and Tailwind CSS to create a visually appealing and responsive user interface.
 
-## Project Link
-
-#### You can reach my project from [here](https://reactjs-ai-summarizer.vercel.app/) 👈
 
 ## Project Skeleton
 
@@ -81,8 +78,4 @@ $ npm install vite / yarn install vite
 $ npm run dev / yarn dev
 
 ```
-
-### Preview of the Project
- 
-<img src="./aiSummarizer.gif" alt="gif"   />
  
