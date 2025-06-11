@@ -10,7 +10,7 @@ const Hero = () => {
           type="button"
           onClick={() =>
             window.open(
-              "https://github.com/Amanihh/summarizer.git",
+              "https://github.com/Amanihh/my-summarizer.git",
               "_blank"
             )
           }
